@@ -17,7 +17,7 @@ Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izl
 
 1. **Depoyu klonlayın:**
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    gh repo clone Deryaglmz/KonusarakOgrenReactNativeProjesi
     cd your-repo
     ```
 
